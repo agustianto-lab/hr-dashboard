@@ -1,1 +1,3 @@
-# hr-dashboard
+HR dashboard sample
+
+This my portfolio.
